@@ -1,0 +1,12 @@
+name: Hurricane
+title: Hurricane
+username: tiancheng-shi
+account: tiancheng-shi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13790996
+bundleId: 9690039
+url: https://tiancheng-shi.shinyapps.io/Hurricane/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
